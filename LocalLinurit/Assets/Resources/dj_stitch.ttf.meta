@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: ef91c9243c8004eeb8223029f6d6617e
+timeCreated: 1514176223
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: DJ Stitch
+  fontNames:
+  - DJ Stitch
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: daa11ae5e6ee04075b349c64512ea31f, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

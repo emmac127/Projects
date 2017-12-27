@@ -1,0 +1,46 @@
+/Users/emma/Desktop/LocalLinurit/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/emma/Desktop/LocalLinurit/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/emma/Desktop/LocalLinurit/obj/Debug/Assembly-CSharp.dll
+/Users/emma/Desktop/LocalLinurit/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/emma/Desktop/LocalLinurit/Temp/bin/Debug/UnityEngine.dll
+/Users/emma/Desktop/LocalLinurit/Temp/bin/Debug/UnityEditor.dll
+/Users/emma/Desktop/LocalLinurit/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/emma/Desktop/LocalLinurit/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/emma/Desktop/LocalLinurit/Temp/bin/Debug/UnityEngine.TestRunner.dll
+/Users/emma/Desktop/LocalLinurit/Temp/bin/Debug/nunit.framework.dll
+/Users/emma/Desktop/LocalLinurit/Temp/bin/Debug/UnityEngine.Timeline.dll
+/Users/emma/Desktop/LocalLinurit/Temp/bin/Debug/UnityEngine.Analytics.dll
+/Users/emma/Desktop/LocalLinurit/Temp/bin/Debug/UnityEngine.HoloLens.dll
+/Users/emma/Desktop/LocalLinurit/Temp/bin/Debug/Mono.Cecil.dll
+/Users/emma/Desktop/LocalLinurit/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/emma/Desktop/LocalLinurit/Temp/bin/Debug/Unity.DataContract.dll
+/Users/emma/Desktop/LocalLinurit/Temp/bin/Debug/ExCSS.Unity.dll
+/Users/emma/Desktop/LocalLinurit/Temp/bin/Debug/Unity.Legacy.NRefactory.dll
+/Users/emma/Desktop/LocalLinurit/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/emma/Desktop/LocalLinurit/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/emma/Desktop/LocalLinurit/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/emma/Desktop/LocalLinurit/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/emma/Desktop/LocalLinurit/Temp/bin/Debug/Mono.Cecil.Mdb.dll
+/Users/emma/Desktop/game design/LocalLinurit/obj/Debug/Assembly-CSharp.dll
+/Users/emma/Desktop/game design/LocalLinurit/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/emma/Desktop/game design/LocalLinurit/Temp/bin/Debug/UnityEngine.dll
+/Users/emma/Desktop/game design/LocalLinurit/Temp/bin/Debug/UnityEditor.dll
+/Users/emma/Desktop/game design/LocalLinurit/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/emma/Desktop/game design/LocalLinurit/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/emma/Desktop/game design/LocalLinurit/Temp/bin/Debug/UnityEngine.TestRunner.dll
+/Users/emma/Desktop/game design/LocalLinurit/Temp/bin/Debug/nunit.framework.dll
+/Users/emma/Desktop/game design/LocalLinurit/Temp/bin/Debug/UnityEngine.Timeline.dll
+/Users/emma/Desktop/game design/LocalLinurit/Temp/bin/Debug/UnityEngine.Analytics.dll
+/Users/emma/Desktop/game design/LocalLinurit/Temp/bin/Debug/UnityEngine.HoloLens.dll
+/Users/emma/Desktop/game design/LocalLinurit/Temp/bin/Debug/Mono.Cecil.dll
+/Users/emma/Desktop/game design/LocalLinurit/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/emma/Desktop/game design/LocalLinurit/Temp/bin/Debug/Unity.DataContract.dll
+/Users/emma/Desktop/game design/LocalLinurit/Temp/bin/Debug/ExCSS.Unity.dll
+/Users/emma/Desktop/game design/LocalLinurit/Temp/bin/Debug/Unity.Legacy.NRefactory.dll
+/Users/emma/Desktop/game design/LocalLinurit/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/emma/Desktop/game design/LocalLinurit/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/emma/Desktop/game design/LocalLinurit/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/emma/Desktop/game design/LocalLinurit/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/emma/Desktop/game design/LocalLinurit/Temp/bin/Debug/Mono.Cecil.Mdb.dll
+/Users/emma/Desktop/game design/LocalLinurit/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/emma/Desktop/game design/LocalLinurit/Temp/bin/Debug/Assembly-CSharp.dll
