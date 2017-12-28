@@ -9,12 +9,11 @@ public class lineRendS : MonoBehaviour {
 	public Vector3 endPos;
 	public bool canDestroy;
 	LineRenderer LR;
-	private Renderer rend;
+
 	// Use this for initialization
 	void Start () {
 		canDestroy = false;
 		LineRenderer lineRenderer = gameObject.AddComponent<LineRenderer>();
-		rend = GetComponent<Renderer>();
 		lineRenderer.startColor = white;
 		lineRenderer.endColor = white;
 		lineRenderer.startWidth = 2;

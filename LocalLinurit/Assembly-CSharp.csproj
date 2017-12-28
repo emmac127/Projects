@@ -51,7 +51,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\nextLevel.cs" />
+     <Compile Include="Assets\LvlReset.cs" />
      <Compile Include="Assets\Scripts\competer.cs" />
      <Compile Include="Assets\Scripts\DieTime.cs" />
      <Compile Include="Assets\Scripts\Draggable.cs" />
@@ -60,11 +60,15 @@
      <Compile Include="Assets\Scripts\getLevlNum.cs" />
      <Compile Include="Assets\Scripts\levelFade.cs" />
      <Compile Include="Assets\Scripts\lineRendS.cs" />
+     <Compile Include="Assets\Scripts\LvlScreenDrag.cs" />
+     <Compile Include="Assets\Scripts\maxLvlSet.cs" />
+     <Compile Include="Assets\Scripts\nextLevel.cs" />
      <Compile Include="Assets\Scripts\niceFont.cs" />
      <Compile Include="Assets\Scripts\nodeLine.cs" />
      <Compile Include="Assets\Scripts\reloadLevel.cs" />
      <Compile Include="Assets\Scripts\seeLvlStats.cs" />
      <Compile Include="Assets\Scripts\selectSprite.cs" />
+     <Compile Include="Assets\Scripts\setCurLvl.cs" />
      <Compile Include="Assets\Scripts\simulate.cs" />
      <Compile Include="Assets\Scripts\starActive.cs" />
      <Compile Include="Assets\Scripts\unfade.cs" />

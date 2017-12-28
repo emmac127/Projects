@@ -91,6 +91,7 @@ ff05dcdf90651c3d98a9cad3df5e471e UnityEngine.Timeline.dll:UnityEngine.Timeline.C
 5667fb372c2b292ccdec2a31aaac98fa UnityEngine.Timeline.dll:UnityEngine.Timeline.GroupTrack
 5667fb372c2b292ccdec2a31aaac98fa UnityEngine.Timeline.dll:UnityEngine.Timeline.PlayableTrack
 c24a21b131bfa67be1162db2cba4b52b UnityEngine.Timeline.dll:UnityEngine.Timeline.TimelineAsset
+05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.getLevlNum
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.levelFade
 fc1e0f4d8439d9928083474691511a13 UnityEngine.Networking.dll:UnityEngine.Networking.NetworkAnimator
 05524b8f659e7bfe5756d1335fec24ba UnityEngine.Networking.dll:UnityEngine.Networking.NetworkBehaviour
@@ -116,6 +117,7 @@ c2275a8bfbb9f9942cad75ecdfded41d UnityEngine.HoloLens.dll:UnityEngine.VR.WSA.Spa
 23970b2053c1869452622449f31334d8 Assembly-CSharp.dll:.DieTime
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.niceFont
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.selectSprite
+cd48e0e2f7701ac93c52d7db5cec9998 Assembly-CSharp.dll:.starActive
 5ae7031beb751b402dfaa7d575fa4c94 Assembly-CSharp.dll:.fadeTime2
 fc1e0f4d8439d9928083474691511a13 UnityEngine.Networking.dll:UnityEngine.Networking.NetworkAnimator
 05524b8f659e7bfe5756d1335fec24ba UnityEngine.Networking.dll:UnityEngine.Networking.NetworkBehaviour
@@ -141,8 +143,10 @@ c2275a8bfbb9f9942cad75ecdfded41d UnityEngine.HoloLens.dll:UnityEngine.VR.WSA.Spa
 45f3431f0103c41611e8d4eec3d439df UnityEngine.HoloLens.dll:UnityEngine.VR.WSA.SpatialMappingRenderer
 23c84ddbc925c925c8cc1d5d6a230806 Assembly-CSharp.dll:.seeLvlStats
 9a19286f6e826eaba5a940a51dfb2144 Assembly-CSharp.dll:.simulate
+d9ba3e26b2cc6af5e59b99fcf12202ea Assembly-CSharp.dll:.nextLevel
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.competer
 fc802b53dce049baf80463d26df9a053 Assembly-CSharp.dll:.nodeLine
-05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.getLevlNum
-cd48e0e2f7701ac93c52d7db5cec9998 Assembly-CSharp.dll:.starActive
-d9ba3e26b2cc6af5e59b99fcf12202ea Assembly-CSharp.dll:.nextLevel
+05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.setCurLvl
+05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.maxLvlSet
+05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.LvlReset
+700af10e60171ca0e68775389edfe63e Assembly-CSharp.dll:.LvlScreenDrag

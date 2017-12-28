@@ -9,6 +9,7 @@ public class fadeTime : MonoBehaviour {
 	Image image;
 	float alpha;
 	public bool fading;
+	int nextScene; //0 = Play Button, 1 = Levels, 2 = A specific Level
 	// Use this for initialization
 	void Start () {
 		image = GetComponent<Image>();
@@ -16,8 +17,17 @@ public class fadeTime : MonoBehaviour {
 			alpha = 0f;
 		else
 			alpha = 1f;
-		
 
+
+	}
+
+	void LevelSceneNext(){
+		
+		nextScene = 1;
+	}
+
+	void PreciseLevelNext(){
+		nextScene = 2;
 	}
 	
 	// Update is called once per frame
@@ -30,15 +40,29 @@ public class fadeTime : MonoBehaviour {
 		
 		if (alpha > 1f) {
 			int Lev = PlayerPrefs.GetInt("Level"); //max level reached
-			PlayerPrefs.SetInt ("CurLevel", Lev);
+
 
 			if (Lev == 0) {
 				PlayerPrefs.SetInt ("CurLevel", 1);
 				PlayerPrefs.SetInt ("Level", 1);
 				Lev = 1;
 			}
+			switch (nextScene) {
+			case 0:
+				PlayerPrefs.SetInt ("CurLevel", Lev);
+				SceneManager.LoadScene ("Level Display");
+				break;
+			case 1:
+				PlayerPrefs.SetInt ("CurLevel", Lev);
+				SceneManager.LoadScene ("Level Screen");
+				break;
+			case 2:
+				
+				SceneManager.LoadScene ("Level Display");
+				break;
+				
+			}
 
-			SceneManager.LoadScene ("Level Display");
 
 			alpha = 1f;
 			//fading = false;
